@@ -1,0 +1,999 @@
+[
+accessdb
+addpart
+addr2line
+adduser -> useradd
+agetty
+alias
+alternatives
+amdgpu-arch -> offload-arch
+amdgpu-arch-21 -> amdgpu-arch
+apropos -> /etc/alternatives/apropos
+apropos.man-db -> whatis
+ar
+arch
+arpaname
+arping
+as
+attr
+authselect
+avcstat
+awk -> gawk
+b2sum
+base32
+base64
+basename
+basenc
+bash
+bashbug -> bashbug-64
+bashbug-64
+bg
+bits
+blkdeactivate
+blkdiscard
+blkid
+blkpr
+blkzone
+blockdev
+bootctl
+bridge
+bunzip2 -> bzip2
+busctl
+bzcat -> bzip2
+bzcmp -> bzdiff
+bzdiff
+bzegrep -> bzgrep
+bzfgrep -> bzgrep
+bzgrep
+bzip2
+bzip2recover
+bzless -> bzmore
+bzmore
+c++
+c++filt
+c-index-test
+c-index-test-21 -> c-index-test
+c89
+c99
+ca-legacy
+cal
+capsh
+captoinfo -> tic
+cat
+catman
+cc -> gcc
+ccmake
+ccmake3 -> ccmake
+cd
+cfdisk
+chacl
+chage
+chcon
+chcpu
+chfn
+chgpasswd
+chgrp
+chmem
+chmod
+choom
+chown
+chpasswd
+chroot
+chrt
+chsh
+chvt
+cksum
+clang -> clang-21
+clang++ -> clang
+clang++-21 -> clang++
+clang-21
+clang-apply-replacements
+clang-apply-replacements-21 -> clang-apply-replacements
+clang-change-namespace
+clang-change-namespace-21 -> clang-change-namespace
+clang-check
+clang-check-21 -> clang-check
+clang-cl -> clang
+clang-cl-21 -> clang-cl
+clang-cpp -> clang
+clang-cpp-21 -> clang-cpp
+clang-doc
+clang-doc-21 -> clang-doc
+clang-extdef-mapping
+clang-extdef-mapping-21 -> clang-extdef-mapping
+clang-format
+clang-format-21 -> clang-format
+clang-format-diff -> ../share/clang/clang-format-diff.py
+clang-format-diff-21 -> clang-format-diff
+clang-include-cleaner
+clang-include-cleaner-21 -> clang-include-cleaner
+clang-include-fixer
+clang-include-fixer-21 -> clang-include-fixer
+clang-installapi
+clang-installapi-21 -> clang-installapi
+clang-linker-wrapper
+clang-linker-wrapper-21 -> clang-linker-wrapper
+clang-move
+clang-move-21 -> clang-move
+clang-nvlink-wrapper
+clang-nvlink-wrapper-21 -> clang-nvlink-wrapper
+clang-offload-bundler
+clang-offload-bundler-21 -> clang-offload-bundler
+clang-offload-packager
+clang-offload-packager-21 -> clang-offload-packager
+clang-query
+clang-query-21 -> clang-query
+clang-refactor
+clang-refactor-21 -> clang-refactor
+clang-reorder-fields
+clang-reorder-fields-21 -> clang-reorder-fields
+clang-repl
+clang-repl-21 -> clang-repl
+clang-scan-deps
+clang-scan-deps-21 -> clang-scan-deps
+clang-sycl-linker
+clang-sycl-linker-21 -> clang-sycl-linker
+clang-tidy
+clang-tidy-21 -> clang-tidy
+clangd
+clangd-21 -> clangd
+clear
+clock -> hwclock
+clockdiff
+cmake
+cmake3 -> cmake
+cmp
+col
+colcrt
+colrm
+column
+comm
+command
+composefs-info
+conmon
+containerd
+containerd-shim-runc-v2
+containerd-stress
+coredumpctl
+coresched
+cp
+cpack
+cpack3 -> cpack
+cpp
+cracklib-check
+cracklib-format
+cracklib-packer
+cracklib-unpacker
+cracklib-update
+create-cracklib-dict
+criu
+crun
+csplit
+ctest
+ctest3 -> ctest
+ctr
+ctrlaltdel
+ctstat -> lnstat
+curl
+cut
+cvtsudoers
+cyrusbdb2current
+date
+dbus-broker
+dbus-broker-launch
+dcb
+dd
+ddns-confgen
+deallocvt
+debuginfod-find
+delpart
+delv
+depmod -> kmod
+desktop-file-edit -> desktop-file-install
+desktop-file-install
+desktop-file-validate
+devlink
+df
+diagtool
+diagtool-21 -> diagtool
+diff
+diff3
+dig
+dir
+dircolors
+dirmngr
+dirmngr-client
+dirname
+dmesg
+dmfilemapd
+dmsetup
+dmstats -> dmsetup
+dnf -> dnf5
+dnf5
+dnstap-read
+docker -> /mnt/wsl/docker-desktop/cli-tools/usr/bin/docker
+docker-compose -> /mnt/wsl/docker-desktop/cli-tools/usr/local/lib/docker/cli-plugins/docker-compose
+docker-credential-desktop.exe -> /Docker/host/bin/docker-credential-desktop.exe
+du
+dumpkeys
+dwp
+echo
+ed2k-link -> rhash
+edonr256-hash -> rhash
+edonr512-hash -> rhash
+egrep
+eject
+elfedit
+encguess
+enosys
+env
+eqn
+ex -> ../../usr/libexec/vi
+exch
+expand
+expr
+factor
+fadvise
+faillock
+fallocate
+false
+fc
+fd
+fdformat
+fdisk
+fg
+fgconsole
+fgrep
+file
+fincore
+find
+find-all-symbols
+find-all-symbols-21 -> find-all-symbols
+findfs
+findmnt
+fixfiles
+flock
+fmt
+fold
+free
+fsck
+fsck.cramfs
+fsck.minix
+fsfreeze
+fsnotifywait
+fsnotifywatch
+fstrim
+funzip
+fuse-overlayfs
+fuser
+fusermount3
+fzf
+fzf-tmux
+g++
+gapplication
+gawk
+gawkbug
+gcc
+gcc-ar
+gcc-nm
+gcc-ranlib
+gcov
+gcov-dump
+gcov-tool
+gdbm_dump
+gdbm_load
+gdbmtool
+gdbus
+gencat
+genhomedircon -> semodule
+genl
+geqn -> eqn
+getcap
+getconf
+getenforce
+getent
+getfacl
+getfattr
+getkeycodes
+getopt
+getopts
+getpcaps
+getpidprevcon
+getpolicyload
+getsebool
+getsubids
+gio
+gio-querymodules-64
+git
+git-receive-pack -> git
+git-shell
+git-upload-archive -> git
+git-upload-pack -> git
+glib-compile-schemas
+gmake -> make
+gneqn -> neqn
+gnroff -> nroff
+gost12-256-hash -> rhash
+gost12-512-hash -> rhash
+gpasswd
+gpg
+gpg-agent
+gpg-connect-agent
+gpg-error
+gpg2 -> gpg
+gpgconf
+gpgme-json
+gpgv
+gpgv2 -> gpgv
+gpic -> pic
+gprof
+grep
+groff
+grops
+grotty
+groupadd
+groupdel
+groupmems
+groupmod
+groups
+grpck
+grpconv
+grpunconv
+gsettings
+gsoelim -> soelim
+gtar -> tar
+gtbl -> tbl
+gtroff -> troff
+gunzip
+gzexe
+gzip
+halt -> ../bin/systemctl
+hardlink
+has160-hash -> rhash
+hash
+head
+hexdump
+hmaptool
+hmaptool-21 -> hmaptool
+homectl
+host
+hostid
+hostnamectl
+hub-tool -> /mnt/wsl/docker-desktop/cli-tools/usr/bin/hub-tool
+hwclock
+hx
+i386 -> setarch
+iconv
+iconvconfig
+id
+ifenslave
+ifstat
+infocmp
+infotocap -> tic
+init -> ../lib/systemd/systemd
+inotifywait
+inotifywatch
+insmod -> kmod
+install
+installkernel -> kernel-install
+ionice
+ip
+ipcmk
+ipcrm
+ipcs
+irqtop
+isosize
+jemalloc.sh
+jobs
+join
+journalctl
+json_reformat
+json_verify
+kbd_mode
+kbdinfo
+kbdrate
+kernel-install
+kill
+killall
+kmod
+last
+lastb -> last
+lastlog2
+ld -> /etc/alternatives/ld
+ld.bfd
+ld.lld -> lld
+ld.lld-21 -> ld.lld
+ld.so -> ../lib64/ld-linux-x86-64.so.2
+ld64.lld -> lld
+ld64.lld-21 -> ld64.lld
+ldattach
+ldconfig
+ldd
+less
+lessecho
+lesskey
+lesspipe.sh
+lexgrog
+link
+linux32 -> setarch
+linux64 -> setarch
+lld
+lld-21 -> lld
+lld-link -> lld
+lld-link-21 -> lld-link
+ln
+lnstat
+load_policy
+loadkeys
+loadunimap
+locale
+localectl
+localedef
+logger
+login
+loginctl
+logname
+logrotate
+look
+losetup
+ls
+lsblk
+lsclocks
+lscpu
+lsfd
+lsipc
+lsirq
+lslocks
+lslogins
+lsmem
+lsmod -> kmod
+lsns
+lsof
+lspci
+lsusb
+lsusb.py
+lto-dump
+luajit -> luajit-2.1.1761727121
+luajit-2.1.1761727121
+magnet-link -> rhash
+make
+man -> /etc/alternatives/man
+man-recode
+man.man-db
+mandb
+manpath
+mapscrn
+matchpathcon
+mcookie
+md5sum
+mesg
+microdnf -> dnf5
+mkcomposefs
+mkdict -> cracklib-format
+mkdir
+mkfifo
+mkfs
+mkfs.cramfs
+mkfs.minix
+mkhomedir_helper
+mknod
+mkswap
+mktemp
+mmdblookup
+modinfo -> kmod
+modprobe -> kmod
+modularize
+modularize-21 -> modularize
+modulemd-validator
+more
+mount
+mount.composefs
+mount.drvfs -> /init
+mount.fuse3
+mountpoint
+msgfmt.py -> ./msgfmt3.py
+msgfmt3.14.py
+msgfmt3.py -> msgfmt3.14.py
+mv
+named-checkzone
+named-compilezone
+named-nzd2nzf
+namei
+nano
+nc -> /etc/alternatives/nc
+ncat
+ndptool
+neqn
+networkctl
+NetworkManager
+newgidmap
+newgrp
+newuidmap
+newusers
+nft
+nginx
+nginx-upgrade
+nice
+ninja
+ninja-build -> ninja
+nl
+nm
+nm-online
+nmcli
+node -> node-22
+node-22
+nohup
+nologin
+npm -> ../lib/node_modules_22/npm/bin/npm-cli.js
+npm-22 -> ../lib/node_modules_22/npm/bin/npm-cli.js
+nproc
+npx -> ../lib/node_modules_22/npm/bin/npx-cli.js
+npx-22 -> ../lib/node_modules_22/npm/bin/npx-cli.js
+nroff
+nsec3hash
+nsenter
+nslookup
+nstat
+nsupdate
+numfmt
+nvim
+nvptx-arch -> offload-arch
+nvptx-arch-21 -> nvptx-arch
+objcopy
+objdump
+od
+offload-arch
+offload-arch-21 -> offload-arch
+oomctl
+openvt
+p11-kit
+pam_namespace_helper
+pam_timestamp_check
+partx
+passt
+passt-repair
+passt.avx2
+passwd
+pasta
+pasta.avx2
+paste
+pathchk
+pcilmr
+peekfd
+perl
+perl5.42.0
+perldoc
+pgrep
+pic
+piconv
+pidof
+pidwait
+ping
+ping6 -> ping
+pinky
+pip -> ./pip3.14
+pip-3 -> ./pip3.14
+pip-3.14 -> ./pip3.14
+pip3 -> ./pip3.14
+pip3.14
+pipesz
+pivot_root
+pkg-config
+pkgconf
+pkill
+pldd
+pmap
+pod2man
+pod2text
+pod2usage
+podman
+post-grohtml
+poweroff -> ../bin/systemctl
+pp-trace
+pp-trace-21 -> pp-trace
+pr
+pre-grohtml
+preconv
+printenv
+printf
+prlimit
+prtstat
+ps
+psfaddtable -> psfxtable
+psfgettable -> psfxtable
+psfstriptable -> psfxtable
+psfxtable
+pslog
+pstree
+pstree.x11 -> pstree
+ptx
+pwck
+pwconv
+pwd
+pwdx
+pwhistory_helper
+pwmake
+pwscore
+pwunconv
+pydoc -> ./pydoc3
+pydoc3 -> pydoc3.14
+pydoc3.14
+pygettext.py -> ./pygettext3.py
+pygettext3.14.py
+pygettext3.py -> pygettext3.14.py
+python -> ./python3
+python-config -> ./python3-config
+python3 -> python3.14
+python3-config -> python3.14-config
+python3.14
+python3.14-config
+python3.14-x86_64-config
+qemu-aarch64-static
+qemu-aarch64_be-static
+qemu-alpha-static
+qemu-arm-static
+qemu-armeb-static
+qemu-hexagon-static
+qemu-hppa-static
+qemu-i386-static
+qemu-loongarch64-static
+qemu-m68k-static
+qemu-microblaze-static
+qemu-microblazeel-static
+qemu-mips-static
+qemu-mips64-static
+qemu-mips64el-static
+qemu-mipsel-static
+qemu-mipsn32-static
+qemu-mipsn32el-static
+qemu-or1k-static
+qemu-ppc-static
+qemu-ppc64-static
+qemu-ppc64le-static
+qemu-riscv32-static
+qemu-riscv64-static
+qemu-s390x-static
+qemu-sh4-static
+qemu-sh4eb-static
+qemu-sparc-static
+qemu-sparc32plus-static
+qemu-sparc64-static
+qemu-x86_64-static
+qemu-xtensa-static
+qemu-xtensaeb-static
+qrap
+ranlib
+rdma
+read
+readelf
+readlink
+readprofile
+realpath
+reboot -> ../bin/systemctl
+rename
+renice
+reset -> tset
+resizecons
+resizepart
+resolvconf -> ../bin/resolvectl
+resolvectl
+restorecon -> setfiles
+restorecon_xattr
+rev
+rfkill
+rg
+rhash
+rm
+rmdir
+rmmod -> kmod
+rnano -> nano
+rpm
+rpm2archive
+rpm2cpio -> rpm2archive
+rpmdb
+rpmkeys
+rpmquery -> rpm
+rpmsort
+rpmverify -> rpm
+rsync
+rsync-ssl
+rtacct
+rtcwake
+rtmon
+rtstat -> lnstat
+run-clang-tidy
+run-clang-tidy-21 -> run-clang-tidy
+run0 -> systemd-run
+runc
+runcon
+runuser
+rvi -> ../../usr/libexec/vi
+rview -> ../../usr/libexec/vi
+sasldblistusers2
+saslpasswd2
+scalar
+scp
+sdiff
+secon
+sed
+sefcontext_compile
+selabel_compare
+selabel_digest
+selabel_get_digests_all_partial_matches
+selabel_lookup
+selabel_lookup_best_match
+selabel_partial_match
+selinux_check_access
+selinuxconlist
+selinuxdefcon
+selinuxenabled
+selinuxexeccon
+semodule
+semodule_expand
+semodule_link
+semodule_package
+semodule_unpackage
+seq
+sestatus
+setarch
+setcap
+setenforce
+setfacl
+setfattr
+setfiles
+setfont
+setkeycodes
+setleds
+setmetamode
+setpci
+setpgid
+setpriv
+setsebool
+setsid
+setterm
+setvtrgb
+sfdisk
+sftp
+sfv-hash -> rhash
+sg -> newgrp
+sh -> bash
+sha1sum
+sha224sum
+sha256sum
+sha384sum
+sha512sum
+showconsolefont
+showkey
+shred
+shuf
+shutdown -> ../bin/systemctl
+size
+skill
+slabtop
+sleep
+snice
+soelim -> /etc/alternatives/soelim
+soelim.groff
+sort
+sotruss
+split
+sprof
+sqlite3
+ss
+ssh
+ssh-add
+ssh-agent
+ssh-copy-id
+ssh-keygen
+ssh-keyscan
+stat
+stdbuf
+strings
+strip
+stty
+su
+sudo
+sudoedit -> sudo
+sudoreplay
+sulogin
+sum
+swaplabel
+swapoff
+swapon
+switch_root
+symlinks
+sync
+sysctl
+systemctl
+systemd-ac-power
+systemd-analyze
+systemd-ask-password
+systemd-cat
+systemd-cgls
+systemd-cgtop
+systemd-confext -> systemd-sysext
+systemd-creds
+systemd-cryptenroll
+systemd-cryptsetup
+systemd-delta
+systemd-detect-virt
+systemd-escape
+systemd-firstboot
+systemd-home-fallback-shell -> homectl
+systemd-hwdb
+systemd-id128
+systemd-inhibit
+systemd-machine-id-setup
+systemd-mount
+systemd-notify
+systemd-path
+systemd-pty-forward
+systemd-repart
+systemd-resolve -> resolvectl
+systemd-run
+systemd-socket-activate
+systemd-stdio-bridge
+systemd-sysext
+systemd-sysusers
+systemd-tmpfiles
+systemd-tty-ask-password-agent
+systemd-umount -> systemd-mount
+systemd-vpick
+tabs
+tac
+tail
+tar
+taskset
+tbl
+tcpdump
+tcpslice
+tcptraceroute
+tee
+test
+tic
+tiger-hash -> rhash
+time
+timedatectl
+timeout
+tipc
+tload
+toe
+top
+touch
+tput
+tr
+tracepath
+tracepath6 -> tracepath
+traceroute
+traceroute6 -> traceroute
+tree
+tree-sitter
+troff
+true
+truncate
+trust
+tset
+tsig-keygen
+tsort
+tth-hash -> rhash
+tty
+type
+tzselect
+uclampset
+udevadm
+ul
+ulimit
+umask
+umount
+unalias
+uname
+uname26 -> setarch
+unbound-anchor
+unexpand
+unicode_start
+unicode_stop
+uniq
+unix_chkpwd
+unix_update
+unlink
+unsetfiles
+unshare
+unzip
+unzipsfx
+update-alternatives -> alternatives
+update-ca-trust
+update-desktop-database
+update-pciids
+uptime
+usb-devices
+usbhid-dump
+usbreset
+useradd
+userdbctl
+userdel
+usermod
+users
+utmpdump
+uuidgen
+uuidparse
+validatetrans
+varlinkctl
+vdir
+vdpa
+vi
+view
+vigr -> vipw
+vipw
+visudo
+vlock
+vmstat
+w
+wait
+waitpid
+wall
+wasm-ld -> lld
+wasm-ld-21 -> wasm-ld
+watch
+wc
+wcurl
+wdctl
+wget -> wget2
+wget2
+whatis -> /etc/alternatives/whatis
+whatis.man-db
+whereis
+which
+whirlpool-hash -> rhash
+who
+whoami
+whois -> /etc/alternatives/whois
+whois.md
+wipefs
+wl-copy
+wl-paste
+write
+wsl-setup
+wslinfo -> /init
+wslpath -> /init
+x86_64 -> setarch
+x86_64-redhat-linux-c++
+x86_64-redhat-linux-g++
+x86_64-redhat-linux-gcc
+x86_64-redhat-linux-gcc-15
+x86_64-redhat-linux-gnu-pkg-config
+xargs
+xdg-desktop-icon
+xdg-desktop-menu
+xdg-email
+xdg-icon-resource
+xdg-mime
+xdg-open
+xdg-screensaver
+xdg-settings
+xmlcatalog
+xmllint
+xmlwf
+xsel
+yes
+yum -> dnf5
+zcat
+zcmp
+zdiff
+zdump
+zegrep
+zfgrep
+zforce
+zgrep
+zic
+zip
+zipcloak
+zipgrep
+zipinfo
+zipnote
+zipsplit
+zless
+zmore
+znew
+zoxide
+zramctl
+zsoelim -> soelim

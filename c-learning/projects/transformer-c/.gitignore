@@ -1,0 +1,4 @@
+*.o
+lab*
+test_out
+bin/
